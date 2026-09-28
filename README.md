@@ -48,6 +48,14 @@ We do not sell, rent, or share your mobile information with third parties or aff
 
 No mobile information will be shared with third parties/affiliates for marketing or promotional purposes. Information sharing to subcontractors and service providers supporting business operations, such as customer service platforms, appointment scheduling systems, and communication providers, is permitted. All other use case categories exclude text messaging originator opt-in data and consent; this information will not be shared with any third parties.
 
+We are committed to protecting consumer data.
+
+All consumer data, including mobile numbers and SMS consent data, will not be transferred to or disclosed to any external organizations under any circumstances, except where strictly required by law.
+
+This restriction applies to all third parties, including subcontractors, service providers, and other external organizations.
+
+Any prior or conflicting language that could be interpreted to permit sharing, disclosure, or transfer of consumer data to subcontractors, service providers, or other external organizations is overridden by this statement.
+
 Data Security
 
 We maintain reasonable administrative, technical, and physical safeguards to protect your personal information from unauthorized access, disclosure, or misuse.
